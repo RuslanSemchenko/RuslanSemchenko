@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ruslan Semchenko 👋
 
-<!--
-**RuslanSemchenko/RuslanSemchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a developer with experience in a variety of languages and systems.
 
-Here are some ideas to get you started:
+## 🌐 Find me online
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [X (Twitter)](https://x.com/Uncleruc1)
+- [Instagram](https://instagram.com/unclerusyt)
+- [CurseForge](https://www.curseforge.com/members/ruslansem)
+- [LinkedIn](https://www.linkedin.com/in/ruslan-semchenko/)
+## 💻 Languages I Know
+
+- **PHP**
+- **JavaScript**
+- **PAWN**
+- **Squirrel**
+- **SQL**
+- **C#**
+- **C++**
+- **C**
+
+## 🖥️ Systems I Work With
+
+- **Linux** (Ubuntu, Debian)
+- **Windows** (XP, 7, 8, 10)
+
+---
+
+Feel free to check out my repositories or connect with me on my socials!
